@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ADA.iml" filepath="$PROJECT_DIR$/.idea/ADA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ada-1-maxNum/ada-1-maxNum.iml" filepath="$PROJECT_DIR$/ada-1-maxNum/ada-1-maxNum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ada-2-legoMosaics/ada-2-legoMosaics.iml" filepath="$PROJECT_DIR$/ada-2-legoMosaics/ada-2-legoMosaics.iml" />
+    </modules>
+  </component>
+</project>
